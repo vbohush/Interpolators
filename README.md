@@ -24,4 +24,5 @@ The following interpolators are visualized with a variety of tension:
 - AnticipateOvershootInterpolator
 
 Get on Google Play: https://play.google.com/store/apps/details?id=net.bohush.interpolators
+
 Video: https://www.youtube.com/watch?v=6UL7PXdJ6-E
